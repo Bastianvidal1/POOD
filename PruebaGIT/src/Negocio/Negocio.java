@@ -15,4 +15,9 @@ public class Negocio {
     public static void main(String[] args){
     
     }
+    
+    public String getNombre(){
+        return nombre
+    }
+    
 }
