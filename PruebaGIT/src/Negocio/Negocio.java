@@ -12,12 +12,13 @@ package Negocio;
 public class Negocio {
     String nombre;
     int valor;
+    String a;
     public static void main(String[] args){
     
     }
     
     public String getNombre(){
-        return nombre
+        return nombre;
     }
     
 }
